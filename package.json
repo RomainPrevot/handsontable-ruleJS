@@ -8,7 +8,8 @@
     "url": "git+https://github.com/handsontable/handsontable-ruleJS.git"
   },
   "authors": [
-    "Handsoncode", "Handsoncode <hello@handsontable.com>"
+    "Handsoncode",
+    "Handsoncode <hello@handsontable.com>"
   ],
   "keywords": [
     "handsontable-ruleJS",
@@ -20,8 +21,8 @@
     "js-functions"
   ],
   "dependencies": {
-    "handsontable": "0.14.1",
-    "ruleJS": "0.0.5",
-    "jquery": "2.1.3"
+    "handsontable": "^0.28.4",
+    "jquery": "2.1.3",
+    "rulejs": "^0.2.0"
   }
 }
