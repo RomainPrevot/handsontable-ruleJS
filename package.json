@@ -23,6 +23,6 @@
   "dependencies": {
     "handsontable": "^0.28.4",
     "jquery": "2.1.3",
-    "rulejs": "^0.2.0"
+    "rulejs": "https://github.com/RomainPrevot/ruleJS"
   }
 }
